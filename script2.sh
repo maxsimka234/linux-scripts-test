@@ -1,11 +1,11 @@
 #!/bin/bash
 
 
-file="script2_.txt"
+file="script2.log"
 
 echo '--------uname--------'>$file
 printf '\n'>>$file
-uname>>$file
+uname -a >>$file
 echo '-------------------------'>>$file
 printf '\n\n'>>$file
 
