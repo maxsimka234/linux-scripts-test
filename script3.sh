@@ -25,7 +25,7 @@ echo -e "---------Virtual memoty usage-----------">>$file
 vmstat >>$file
 echo -e "\n---------------------------------------- \n\n">>$file
 
-echo -e "---------usage of dick space-----------">>$file
+echo -e "---------usage of disck space-----------">>$file
 df -h >>$file
 echo -e "\n---------------------------------------- \n\n">>$file
 
