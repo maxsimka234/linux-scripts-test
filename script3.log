@@ -267,7 +267,7 @@ procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
 ---------------------------------------- 
 
 
----------usage of dick space-----------
+---------usage of disck space-----------
 Filesystem      Size  Used Avail Use% Mounted on
 udev            714M     0  714M   0% /dev
 tmpfs           149M  1,4M  148M   1% /run
